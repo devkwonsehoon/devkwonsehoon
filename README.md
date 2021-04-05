@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm KWON SEHOON</h1>
+<h1 align="center">안녕하세요 👋, 개발자가 되고 싶은 권세훈입니다.</h1>
 <h3 align="center">Being Back-end developer from Republic of Korea</h3>
 
-- 📫 How to reach me **devkwonsehoon@naver.com, @catholic.ac.kr**
+- 📫 How to reach me **devkwonsehoon@naver.com, devkwonsehoon@catholic.ac.kr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/권세훈" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="권세훈" height="30" width="40" /></a>
-<a href="https://instagram.com/@noohesnowk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="noohesnowk" height="30" width="40" /></a>
+<a href="https://instagram.com/noohesnowk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="noohesnowk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
