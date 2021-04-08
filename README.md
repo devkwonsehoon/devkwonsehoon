@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 👋, 개발자가 되고 싶은 권세훈입니다.</h1>
+<h1 align="center">안녕하세요 👋, 권세훈입니다.</h1>
 <h3 align="center">1999, Republic of Korea</h3>
 <br>
 - 📫 How to reach me **devkwonsehoon@naver.com, devkwonsehoon@catholic.ac.kr**
