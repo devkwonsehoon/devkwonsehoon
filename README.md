@@ -8,7 +8,7 @@
 <h2 align="center">개발흔적</h2>
 <p align="center">
   <a href="https://github.com/SOPT-ZigZag/SERVER_ZIGZAG"> 쇼핑앱 지그재그 리디자인 (서버)</a><br><br>
-  <a href="https://github.com/SOPT-ZigZag/SERVER_ZIGZAG"> 진솔한 술자리 게임 : 진술게임 (서버)</a>
+  <a href="https://github.com/SOPKATHON-28th/server"> 진솔한 술자리 게임 : 진술게임 (서버)</a>
 </p>
 <br>
 
