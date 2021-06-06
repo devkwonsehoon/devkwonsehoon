@@ -1,9 +1,19 @@
 <h1 align="center">권세훈입니다.</h1><br>
+<p align = "center">
+  <a>devkwonsehoon@naver.com</a>
+</p>
 <br>
-devkwonsehoon@naver.com, devkwonsehoon@catholic.ac.kr
+
+
+<h2 align="center">개발흔적</h2>
+<p align="center">
+  <a href="https://github.com/SOPT-ZigZag/SERVER_ZIGZAG"> 쇼핑앱 지그재그 리디자인 (서버)</a><br><br>
+  <a href="https://github.com/SOPT-ZigZag/SERVER_ZIGZAG"> 진솔한 술자리 게임 : 진술게임 (서버)</a>
+</p>
 <br>
-<h3 align="left">컨택트:</h3>
-<p align="left">
+
+<h2 align="center">컨택트</h2>
+<p align="center">
 <a href="https://instagram.com/noohesnowk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="noohesnowk" height="30" width="40" /></a>
 </p>
 <br>
