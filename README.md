@@ -1,20 +1,26 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=DevKwonSeHoon&fontAlign=50&fontAlignY=30&color=gradient&fontSize=40" style="width:100%" /></p>
 
-<h2 align="center">Info</h2>
+<h2 align="center">🦖 Info</h2>
 <p align = "center">
   <a>devkwonsehoon@naver.com</a>
 </p>
 <br>
 
 
-<h2 align="center">Work</h2>
+<h2 align="center">🛠️ Work</h2>
 <p align="center">
-  <a href="https://github.com/SOPT-ZigZag/SERVER_ZIGZAG"> 쇼핑앱 지그재그 리디자인 (서버)</a><br><br>
-  <a href="https://github.com/SOPKATHON-28th/server"> 진솔한 술자리 게임 : 진술게임 (서버)</a>
-</p>
+  <table align="center" border="0" width="300" bordercolor="white">
+	  <th><img src="https://user-images.githubusercontent.com/54793607/124385460-af962500-dd10-11eb-8aad-5b9e40e7ea41.png" width=100 height=100/></th>
+	  <th><img src="https://user-images.githubusercontent.com/54793607/124385450-a6a55380-dd10-11eb-8b99-f5244797ed45.png" width=100 height=100/></th>
+	  <tr align ="center"><!-- 첫번째 줄 시작 -->
+	    <td><a href="https://github.com/SOPT-ZigZag/SERVER_ZIGZAG">지그재그toy 서버</a></td>
+	    <td><a href="https://github.com/SOPKATHON-28th/server">진술게임 서버</a></td>
+	  </tr><!-- 첫번째 줄 끝 -->
+  </table>
+ </p>
 <br>
 
-<h2 align="center">Stack</h2>
+<h2 align="center">🌏 Stack</h2>
 <p align="center">
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
