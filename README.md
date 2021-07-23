@@ -1,12 +1,7 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=DevKwonSeHoon&fontAlign=50&fontAlignY=30&color=gradient&fontSize=40" style="width:100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=DevKwonSeHoon&fontAlign=50&fontAlignY=30&color=gradient&fontSize=40" style="width:100%" />devkwonsehoon@naver.com</p>
 
-<h2 align="center">🦖 Info</h2>
-<p align = "center">
-  <a>devkwonsehoon@naver.com</a>
-</p>
+
 <br>
-
-
 <h2 align="center">🛠️ Work</h2>
 <p align="center">
   <table align="center" border="0" width="300" bordercolor="white">
