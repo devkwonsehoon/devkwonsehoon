@@ -14,7 +14,8 @@
 	  	  <br>
 		  <span style="font-size : 0.5em">
 		  지그재그 리뉴얼<br>
-		  28th SOPT<br>			  
+		  28th SOPT<br>
+		  SERVER<br>
 		  <a href="https://github.com/SOPT-ZigZag/SERVER_ZIGZAG">check here →</a>
 		  </span>
 	  </th>
@@ -25,6 +26,7 @@
 		  <span style="font-size : 0.5em">
 		  진술게임<br>
 		  28th SOPKATHON<br>
+		  SERVER<br>
 		  <a href="https://github.com/SOPKATHON-28th/server">check here →</a>
 		  </span>
 	  </th>
@@ -35,6 +37,7 @@
 		  <span style="font-size : 0.5em">
 		  캐치미<br>
 		  28th APPJAM<br>
+		  SERVER<br>
 		  <a href="https://github.com/TeamCatchMe/CatchMe-If-You-Server">check here →</a>
 		  </span>
 	  </th>
