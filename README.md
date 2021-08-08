@@ -1,5 +1,6 @@
 <p align="center">
 	<b>KWON SE HOON</b><br>
+	<b>Catholic University of Korea</b><br>
 	devkwonsehoon@naver.com
 </p>
 
