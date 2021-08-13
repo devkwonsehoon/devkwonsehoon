@@ -1,64 +1,18 @@
+<h3 align="center">KWON SE HOON</h3>
 <p align="center">
-	<b>KWON SE HOON</b><br>
 	<b>Catholic University of Korea</b><br>
 	devkwonsehoon@naver.com
 </p>
 
 
 <br>
-<h2 align="center">🛠️ Projects</h2>
+<h3 align="center">🛠️ Projects</h3>
 <p align="center">
-  <table align="center" border="0" width="300" bordercolor="white">
-	  <th width="200">
-		  <img src="https://user-images.githubusercontent.com/54793607/124385460-af962500-dd10-11eb-8aad-5b9e40e7ea41.png" width=100 height=100/>
-		  <br>
-	  	  <br>
-		  <span style="font-size : 0.5em">
-		  지그재그 리뉴얼<br>
-		  28th SOPT<br>
-		  SERVER<br>
-		  <a href="https://github.com/SOPT-ZigZag/SERVER_ZIGZAG">check here →</a>
-		  </span>
-	  </th>
-	  <th width="200">
-		  <img src="https://user-images.githubusercontent.com/54793607/124385450-a6a55380-dd10-11eb-8b99-f5244797ed45.png" width=100 height=100/>
-		  <br>
-	  	  <br>
-		  <span style="font-size : 0.5em">
-		  진술게임<br>
-		  28th SOPKATHON<br>
-		  SERVER<br>
-		  <a href="https://github.com/SOPKATHON-28th/server">check here →</a>
-		  </span>
-	  </th>
-	  <th width="200">
-		  <img src="https://user-images.githubusercontent.com/54793607/126582974-4c391bac-7090-49c2-bc33-f72bedd2bc16.png" width=100 height=100/>
-		  <br>
-	  	  <br>
-		  <span style="font-size : 0.5em">
-		  캐치미<br>
-		  28th APPJAM<br>
-		  SERVER<br>
-		  <a href="https://github.com/TeamCatchMe/CatchMe-If-You-Server">check here →</a>
-		  </span>
-	  </th>
-  </table>
+	<a href="https://github.com/SOPKATHON-28th/server"><b>진술게임</b></a> - 당신의 진술한 기억을 나눠보는 술자리 게임 (28th SOPT Sopkathon)</a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/><br>
+	<a href="https://github.com/TeamCatchMe/CatchMe-If-You-Server"><b>캐치미</b></a> - 나의 매일을 다채롭게, 관심사 기반 캐릭터 관리 (28th SOPT APPJAM)</a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/><br>
+	<a href="http://catchme.site/"><b>캐치미 Web</b></a> - 캐치미 릴리즈 소식을 위한 랜딩 페이지</a> <img src="https://img.shields.io/badge/NestJs-333333?style=flat-square&logo=NestJs&logoColor=red"/><img src="https://img.shields.io/badge/HTML&CSS-ffffff?style=flat-square&logo=HTML&logoColor=red"/><br>
+	<a href="https://github.com/OPGG-HACKTHON"><b>차이</b></a> - 더욱 재밌게 즐기는 리그오브레전드 랭킹, 타이틀 서비스 (OPGG)</a> <img src="https://img.shields.io/badge/NestJs-333333?style=flat-square&logo=NestJs&logoColor=red"/><br>	
  </p>
-<br>
-
-<h2 align="center">🌏 Stack</h2>
-<p align="center">
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-<p align="center">
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
-</p>
-
-<br>
 <br>
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkwonsehoon&show_icons=true&locale=en" alt="devkwonsehoon" /></p>
