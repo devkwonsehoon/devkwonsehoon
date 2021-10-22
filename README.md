@@ -15,11 +15,7 @@
 	<li><a href="http://catchme.site/"><b>캐치미 Web</b></a> - 캐치미 릴리즈 소식을 위한 랜딩 페이지</a> <img src="https://img.shields.io/badge/NestJs-333333?style=flat-square&logo=NestJs&logoColor=red"/><img src="https://img.shields.io/badge/HTML&CSS-ffffff?style=flat-square&logo=HTML&logoColor=red"/>
 	<li><a href="https://github.com/OPGG-HACKTHON/mobile-a-backend"><b>차이</b></a> - 더욱 재밌게 즐기는 리그오브레전드 랭킹, 타이틀 서비스 (OPGG)</a> <img src="https://img.shields.io/badge/NestJs-333333?style=flat-square&logo=NestJs&logoColor=red"/>
 </ul>
-	
-<br>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkwonsehoon&show_icons=true&locale=en" alt="devkwonsehoon" /></p>
-
 <p align="center">
+	<br><br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevkwonsehoon&count_bg=%23001AFB&title_bg=%235C93FB&icon=&icon_color=%23D5D5D5&title=hits&edge_flat=false"/></a>
 </p>
