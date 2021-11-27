@@ -15,6 +15,7 @@
 	<li><a href="http://catchme.site/"><b>캐치미 Web</b></a> - 캐치미 릴리즈 소식을 위한 랜딩 페이지</a> <img src="https://img.shields.io/badge/NestJs-333333?style=flat-square&logo=NestJs&logoColor=red"/><img src="https://img.shields.io/badge/HTML&CSS-ffffff?style=flat-square&logo=HTML&logoColor=red"/>
 	<li><a href="https://hackathon.op.gg/users/4dREUz21ua"><b>차이</b></a> - 더욱 재밌게 즐기는 리그오브레전드 랭킹, 타이틀 서비스 (OPGG)</a> <img src="https://img.shields.io/badge/NestJs-333333?style=flat-square&logo=NestJs&logoColor=red"/>
 	<li><a href="https://github.com/29th-Sopkathon-team3/SERVER"><b>우리도</b></a> - 우리 열정의 온도, 우리℃(우리도) (29th SOPT Sopkathon)</a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+	<li><a href="https://github.com/GOGO-st/GO-st-Server"><b>Go.st</b></a> - 우리 대학 근처 위기 기반 경험 공유 커뮤니티 서비스 (wanted HACKareer)</a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </ul>
 <p align="center">
 	<br><br>
