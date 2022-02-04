@@ -7,7 +7,7 @@
 <hr>
 
 <br>
-<h3>🛠️ Projects</h3>
+<h3>🚀 Projects</h3>
 
 ### 2021 
 <ul>
