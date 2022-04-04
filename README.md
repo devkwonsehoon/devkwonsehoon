@@ -22,6 +22,7 @@
 ### 2022
 <ul>
 	<li><a href="https://github.com/TeamFILL-IN/Fill-Server"><b>FILL-IN</b></a> - 필름카메라 현상소, 필름 정보제공 서비스 (29th SOPT AppJam)</a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+	<li><a href="http://gachisaja.com/"><b>가치사자 Web</b></a> - 가치사자 랜딩 페이지</a> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </ul>
 
 <p align="center">
